@@ -23,7 +23,7 @@ The Chrome Web Store Rating plugin allows you to showcase your Chrome extension'
 
 ## Installation
 
-1. Upload the `chrome-web-store-rating` folder to the `/wp-content/plugins/` directory
+1. Upload the php file to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Settings > Chrome Store Rating to configure the plugin
 
@@ -56,18 +56,12 @@ Yes, all data fetching occurs server-side. No user data is sent to the Chrome We
 
 The plugin comes with a default style. If you're comfortable with CSS, you can further customize the appearance by adding your own CSS rules to your theme.
 
-## Changelog
-
-### 1.0
-* Initial release
-
-## Upgrade Notice
-
-### 1.0
-Initial release of the Chrome Web Store Rating plugin.
+## Donations
+If you find this bot useful and want to support me you can do so here:
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/mxlsr)
 
 ## Additional Information
 
-For support, feature requests, or to contribute to the plugin, please visit our [GitHub repository](https://github.com/yourusername/chrome-web-store-rating).
+For support, feature requests, or to contribute to the plugin, please visit our [GitHub repository](https://github.com/mxlsr/wp-chrome-webstore-rating-scraper/).
 
-Enjoy using Chrome Web Store Rating!
+Enjoy using Chrome Web Store Rating Plugin!
